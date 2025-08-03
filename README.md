@@ -4,18 +4,18 @@ A HR analytics dashboard built using Tableau, powered by synthetic employee data
 
 🔗 View Dashboard on Tableau Public
 ![Dashboard Screenshot](dashboard_screenshot.png)
-___
+
 
 ## Overview
 
 This project showcases key HR metrics across departments, genders, and job roles using visual storytelling and clean UI design. The aim is to assist HR professionals in identifying trends and making data driven decisions.
-___
+
 
 ## Built in Tableau Desktop
 
 Design support using Figma (background layout)
 Data generated using Python + Faker
-___
+
 
 ## Dataset
 
@@ -34,10 +34,7 @@ Education Level
 Marital Status
 Performance Score
 Work Mode (Remote, Onsite, Hybrid)
-Salary
-...and more.
-
-___
+Salary etc
 
 ## Visualisations
 
@@ -47,14 +44,14 @@ Gender ratio across job roles
 Performance rating heatmaps
 Work mode comparison (Remote vs Onsite vs Hybrid)
 Salary distribution by department and education
-___
+
 
 ## Tools & Tech
 
 Tableau – Data visualization
 Python (Faker library) – Synthetic data generation
 Figma – Visual layout for background
-___
+
 
 ### Author
 Minal Urooj
