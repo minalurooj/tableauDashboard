@@ -13,7 +13,8 @@ This project showcases key HR metrics across departments, genders, and job roles
 
 ## Dataset
 
-**File: hr_dataset_sample.csv**  
+**File: [hr_dataset_sample.csv](https://github.com/minalurooj/tableauDashboard/blob/589a577c27ef96136624ef18c42ee8bdede9879b/hr_dashboard_sample.csv)
+**  
 **Size: 20,000 synthetic employee records**  
 **Time Range: 2015–2024**  
 
