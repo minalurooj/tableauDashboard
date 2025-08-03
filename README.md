@@ -1,6 +1,6 @@
 # Employee Insights (Mock Data)— HR Analytics Dashboard
 
-A HR analytics dashboard built using Tableau, powered by synthetic employee data generated via Python's Faker library.
+HR analytics dashboard built using Tableau, powered by synthetic employee data generated via Python's Faker library.
 
 🔗 View Dashboard on Tableau Public
 ![Dashboard Screenshot](dashboard_screenshot.png)
@@ -23,7 +23,7 @@ Data generated using Python + Faker
 **Size: 20,000 synthetic employee records**
 **Time Range: 2015–2024**
 
-## Note: This is entirely fake data used only for learning and portfolio display purposes.
+## Note: This is entirely fake data used only for learning and portfolio purpose.
 
 ## Features included:
 Employee ID
