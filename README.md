@@ -2,7 +2,7 @@
 
 HR analytics dashboard built using Tableau, powered by synthetic employee data generated via Python's Faker library.
 
-🔗 View Dashboard on Tableau Public  
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/minal.urooj/viz/EmployeeInsightsFakerData/Dashboard1)
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
