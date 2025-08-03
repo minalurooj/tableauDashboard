@@ -2,7 +2,7 @@
 
 HR analytics dashboard built using Tableau, powered by synthetic employee data generated via Python's Faker library.
 
-🔗 View Dashboard on Tableau Public
+🔗 View Dashboard on Tableau Public  
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 
@@ -19,7 +19,7 @@ Data generated using Python + Faker
 
 ## Dataset
 
-**File: hr_dataset_sample.csv**
+**File: hr_dataset_sample.csv**  
 **Size: 20,000 synthetic employee records**
 **Time Range: 2015–2024**
 
